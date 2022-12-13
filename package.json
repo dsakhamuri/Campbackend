@@ -9,7 +9,7 @@
   "dependencies": {
     "authy": "^1.4.0",
     "bcrypt": "^4.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "material-design-icons": "^3.0.1",
     "mongoose": "^5.9.9",
