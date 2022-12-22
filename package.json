@@ -10,7 +10,7 @@
     "authy": "^1.4.0",
     "bcrypt": "^4.0.1",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "material-design-icons": "^3.0.1",
     "mongoose": "^5.9.9",
     "multer": "^1.4.2",
